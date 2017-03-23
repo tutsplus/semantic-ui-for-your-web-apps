@@ -1,0 +1,50 @@
+<svg width="640" xmlns="http://www.w3.org/2000/svg" height="480">
+<defs>
+<linearGradient gradientTransform="translate(-1 0) translate(1 0)" id="XMLID_11_" y1="0.84627" x1="0.861324" y2="0.153737" x2="0.138678">
+<stop offset="0" style="stop-color:#d6a477"/>
+<stop offset="1" style="stop-color:#e4c3a8"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-1 0) translate(1 0)" id="XMLID_12_" y1="1.054722" x1="0.952616" y2="0.040605" x2="0.229745">
+<stop offset="0" style="stop-color:#967348"/>
+<stop offset="1" style="stop-color:#d6a477"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(0 1) translate(0 -1) translate(0 1) translate(0 1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(-149 32) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(0 -1) translate(149 -15) translate(0 -1) translate(0 1) translate(0 -1) translate(0 -1) translate(0 1) translate(0 1) translate(0 1) translate(0 -1)" id="XMLID_8_" y1="0.820812" x1="1.229289" y2="0.267553" x2="-0.229343">
+<stop offset="0" style="stop-color:#971b1e"/>
+<stop offset="1" style="stop-color:#ed1c24"/>
+</linearGradient>
+<linearGradient id="XMLID_7_" y1="0.159456" x1="0.181445" y2="1.022929" x2="0.818558">
+<stop offset="0" style="stop-color:#fff"/>
+<stop offset="1" style="stop-color:#9d9fa1"/>
+</linearGradient>
+<linearGradient id="XMLID_9_" y1="0.722133" x1="0.867371" y2="0.022491" x2="0.132621">
+<stop offset="0" style="stop-color:#971b1e"/>
+<stop offset="1" style="stop-color:#ed1c24"/>
+</linearGradient>
+</defs>
+<g>
+<path style="fill:url(#XMLID_7_)" id="svg_1" d="m 518.9,563.317 c 0,144.91 -502.9,144.91 -502.9,0 0,-144.911 112.579,-262.382 251.45,-262.382 s 251.45,117.471 251.45,262.382 z "/>
+<g id="svg_5">
+<g id="svg_6">
+<path style="fill:url(#XMLID_9_)" id="svg_7" d="m 309.358,370.804 c 0,-23.694 -25.835,-22.004 -40.891,-22.004 -15.051,0 -40.881,-1.68899 -40.881,22.004 0,23.715 25.83,63.845 40.881,63.845 15.056,-0.000977 40.891,-40.13 40.891,-63.845 z "/>
+</g>
+</g>
+<path style="fill:#7f0000;stroke:#ffa" id="svg_11" d="m 365.217,321.317 l -97.263,340.535 -100.114,-340.605 c -89.855,40.015 -152.839,133.043 -152.839,241.427 0,144.91 502.899,144.91 502.899,0 0,-108.321 -62.912,-201.304 -152.683,-241.357 l 0,0 z "/>
+<g id="svg_19">
+<g id="svg_12">
+<g id="svg_13">
+<ellipse cx="267.45" cy="190.965" rx="167.633" ry="174.922" style="fill:url(#XMLID_11_)" id="svg_14"/>
+</g>
+</g>
+<g id="svg_15">
+<g id="svg_16">
+<path style="fill:url(#XMLID_12_)" id="svg_17" d="m 435.083,256.732 c -23.312,7.07999 0,-196.574 -228.531,-116.109 -6.216,0.548004 -15.984,-20.483 -64.827,-14.869 -6.17601,0.709999 -23.953,12.52 -30.142,13.134 -19.804,1.84601 -9.902,-20.303 -4.057,-31.974 2.946,-6.58199 6.569,-12.954 10.807,-19.049 29.664,-42.667 89.443,-71.822 158.345,-71.822 98.444,0 176.626,43.73 158.404,240.518"/>
+</g>
+</g>
+</g>
+<g id="svg_2">
+<g id="svg_3">
+<path style="fill:url(#XMLID_8_)" id="svg_4" d="m 309.358,594.822 c 0,59.494 -25.835,55.246 -40.891,55.246 -15.051,0 -40.881,4.24805 -40.881,-55.246 0,-59.527 25.83,-160.274 40.881,-160.274 15.056,-3.1e-05 40.891,100.747 40.891,160.274 z "/>
+</g>
+</g>
+</g>
+</svg>

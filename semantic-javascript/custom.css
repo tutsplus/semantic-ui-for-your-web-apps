@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Yellowtail');
+
+.my-brand {
+    font-family: 'Yellowtail', cursive;
+    color:#FFDF00;
+}
+
+.hero {
+    background-image: url('img/atl2_mute.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.neg {
+    margin-top: -15.625em;
+}
+
+.service{
+    width: 100%;
+    min-height: 68.75em;
+    background: linear-gradient(black, grey);
+}
+
+.svc-row {
+    margin-top: 6.25em;
+}
+
+.portfolio{
+    width: 100%;
+    min-height: 68.75em;
+    background-color: #FFDF00;
+}
+
+.port-row {
+    margin-top: 12.5em;
+}
+
+.about {
+    width: 100%;
+    min-height: 68.75em;
+    background: linear-gradient(#87CEEB,#00BFFF);
+}
+
+.about-row {
+    margin-top: 12.5em;
+}
+
+.contact {
+    width: 100%;
+    min-height: 68.75em;
+    background-color: #A9A9A9;
+}
+
+.contact-row {
+    margin-top: 12.5em;
+}
